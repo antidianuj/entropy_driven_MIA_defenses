@@ -39,3 +39,7 @@ Furthermore, following is the comparison plot of threshold, training and LiRA ba
 
 
 
+One thing, that can be remarked is that by directly increasing the entropy of probability vectors during training (by modifying loss), as per M-17, doesnot amerliorates the MIA at all. 
+
+Ofcourse, further conclusions can be drawn, but this is the end of my investigation for now.
+
