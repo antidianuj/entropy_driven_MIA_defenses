@@ -1,4 +1,4 @@
-# entropic_MIA_defense
+# entropy motivated MIA defences
 
 This repo is study of the significance of entropy of the classification vector of a classification model, in relationship to membership inference attack (MIA), as specified in this paper: He, Xinlei, et al. "Membership-Doctor: Comprehensive Assessment of Membership Inference Against Machine Learning Models." arXiv preprint arXiv:2208.10445 (2022).
 
